@@ -4,5 +4,5 @@ Um bot usando a livraria discord.js v13 em slash.
 ### Meu canal: JeffinBr / JeffBr
 
 ## Sobre o código
-# Vá para a o arquivo handler/index.js e coloque um id de servidor
-# Olhe a index normal, e coloque o token de seu bot
+### Vá para a o arquivo handler/index.js e coloque um id de servidor
+### Olhe a index normal, e coloque o token de seu bot
