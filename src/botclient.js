@@ -1,5 +1,5 @@
 const config = require('./config.json')
-const botclient = require('./structutes/client/base.js')
+const botclient = require('./structures/client/base.js')
 const bot = new botclient()
 require('./server')
 
